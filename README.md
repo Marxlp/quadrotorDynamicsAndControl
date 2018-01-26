@@ -2,10 +2,10 @@
 Jupyter notebook about quadrotor dynamics and control using sympy to derivate.
 
 ### Python libraries needed:
-sympy
-matplotlib
-numpy
-scipy
+* sympy
+* matplotlib
+* numpy
+* scipy
 
 ### Some Images:
 ![Coordinate System](/images/coordinate_system.png)
