@@ -1,2 +1,12 @@
 # quadrotorDynamicsAndControl
-Jupyter notebook about quadrotor dynamics and control using sympy to derivate
+Jupyter notebook about quadrotor dynamics and control using sympy to derivate.
+
+### Python libraries needed:
+sympy
+matplotlib
+numpy
+scipy
+
+### Some Images:
+![Coordinate System](/images/coordinate_system.png)
+![Control Loop](/images/control_loop.png)
