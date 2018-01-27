@@ -1,5 +1,5 @@
 # quadrotorDynamicsAndControl v0.1
-Jupyter notebook about quadrotor dynamics and control using sympy to derivate.
+Jupyter notebook about quadrotor dynamics and control using sympy to derivate equations.
 
 ### Python libraries needed:
 * sympy
